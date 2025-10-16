@@ -1,0 +1,1388 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+Chile,CHL,2024,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,677077571.11
+Chile,CHL,2023,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,601371092.94
+Chile,CHL,2022,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,513100658.81
+Chile,CHL,2021,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,496299255.667578
+Chile,CHL,2020,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,379690903.233987
+Chile,CHL,2019,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,382946372.909109
+Chile,CHL,2018,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,374911761.820047
+Chile,CHL,2017,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,346544543.4728
+Chile,CHL,2016,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,344413567.203983
+Chile,CHL,2015,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,316877638.155701
+Chile,CHL,2014,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,342669388.91258
+Chile,CHL,2013,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,352629578.01145
+Chile,CHL,2012,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,396182481.843844
+Chile,CHL,2011,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,339874690.690348
+Chile,CHL,2010,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,286135584.18796
+Chile,CHL,2009,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,255242155.975526
+Chile,CHL,2008,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,303479743.56907
+Chile,CHL,2007,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,234246828.19637
+Chile,CHL,2006,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,221644988.70972
+Chile,CHL,2005,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,233714549.664658
+Chile,CHL,2004,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,266399208.647847
+Chile,CHL,2003,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,239723700.831743
+Chile,CHL,2002,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,224699000
+Chile,CHL,2001,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,167555856.866015
+Chile,CHL,2000,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,240700000
+Chile,CHL,1999,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,212900000
+Chile,CHL,1998,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,228800000
+Chile,CHL,1997,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,217900000
+Chile,CHL,1996,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,219700000
+Chile,CHL,1995,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,179000000
+Chile,CHL,1994,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,76900000
+Chile,CHL,1993,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,52700000
+Chile,CHL,1992,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,35300000
+Chile,CHL,1991,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,31200000
+Chile,CHL,1990,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,17400000
+Chile,CHL,1989,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,2100000
+Chile,CHL,1988,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,4600000
+Chile,CHL,1987,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,43700000
+Chile,CHL,1986,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,26800000
+Chile,CHL,1985,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,1000000
+Chile,CHL,1984,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,13000000
+Chile,CHL,1983,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,13000000
+Chile,CHL,1982,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,9000000
+Chile,CHL,1981,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,5000000
+Chile,CHL,1980,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,4000000
+Chile,CHL,1979,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,4000000
+Chile,CHL,1977,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,1000000
+Chile,CHL,1976,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,1000000
+Chile,CHL,1975,"ICT service exports (BoP, current US$)",BX.GSR.CCIS.CD,1000000
+Chile,CHL,2024,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,5.66245224602403
+Chile,CHL,2023,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,5.84854596659522
+Chile,CHL,2022,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,5.99142162851181
+Chile,CHL,2021,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,8.4926102592581
+Chile,CHL,2020,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,6.83578641640091
+Chile,CHL,2019,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,4.52527243942323
+Chile,CHL,2018,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,4.0637779416345
+Chile,CHL,2017,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,3.76942660286086
+Chile,CHL,2016,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,4.00467248109111
+Chile,CHL,2015,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,3.70297574878314
+Chile,CHL,2014,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,3.51650624239058
+Chile,CHL,2013,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,3.1806101222584
+Chile,CHL,2012,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,3.50523465265271
+Chile,CHL,2011,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,2.83700534515946
+Chile,CHL,2010,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,2.80551052741032
+Chile,CHL,2009,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,3.16005266835831
+Chile,CHL,2008,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,3.01344332053573
+Chile,CHL,2007,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,2.73863427728682
+Chile,CHL,2006,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,3.00899257476
+Chile,CHL,2005,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,3.51002367707796
+Chile,CHL,2004,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,4.61652498201514
+Chile,CHL,2003,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,4.97472210350229
+Chile,CHL,2002,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,5.12168230713628
+Chile,CHL,2001,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,4.0484376440671
+Chile,CHL,2000,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,5.89479050001346
+Chile,CHL,1999,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,5.50226451143931
+Chile,CHL,1998,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,5.78904877817989
+Chile,CHL,1997,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,5.59846551305083
+Chile,CHL,1996,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,6.12274786258206
+Chile,CHL,1995,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,5.3706981907648
+Chile,CHL,1994,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,2.70784182541639
+Chile,CHL,1993,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,2.09567741678928
+Chile,CHL,1992,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,1.49576271186441
+Chile,CHL,1991,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,1.46706164480181
+Chile,CHL,1990,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,0.941507494183215
+Chile,CHL,1989,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,0.136874694476128
+Chile,CHL,1988,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,0.422057069455913
+Chile,CHL,1987,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,4.18181818181818
+Chile,CHL,1986,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,2.57429927189595
+Chile,CHL,1985,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,0.144400161728181
+Chile,CHL,1984,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,1.9578313253012
+Chile,CHL,1983,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,1.63111668757842
+Chile,CHL,1982,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,0.961538461538462
+Chile,CHL,1981,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,0.426621160409556
+Chile,CHL,1980,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,0.316706254948535
+Chile,CHL,1979,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,0.509554140127389
+Chile,CHL,1977,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,0.239808153477218
+Chile,CHL,1976,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,0.336700336700337
+Chile,CHL,1975,"ICT service exports (% of service exports, BoP)",BX.GSR.CCIS.ZS,0.403225806451613
+Chile,CHL,2023,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,17.2832752057261
+Chile,CHL,2022,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,23.6392801423894
+Chile,CHL,2021,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,29.6132609239019
+Chile,CHL,2020,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,31.0383008107818
+Chile,CHL,2019,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,33.2718370822394
+Chile,CHL,2018,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,36.3047887392366
+Chile,CHL,2017,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,36.8868245156905
+Chile,CHL,2016,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,38.1400156301208
+Chile,CHL,2015,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,37.1668390484525
+Chile,CHL,2014,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,36.7560386132037
+Chile,CHL,2013,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,41.3809621569835
+Chile,CHL,2012,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,36.3249272411865
+Chile,CHL,2011,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,29.8555841309939
+Chile,CHL,2010,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,27.9081311844326
+Chile,CHL,2009,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,24.5331181449886
+Chile,CHL,2008,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,23.636607262495
+Chile,CHL,2007,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,22.6614708848211
+Chile,CHL,2006,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,19.1594360086768
+Chile,CHL,2005,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,13.7413306912583
+Chile,CHL,2004,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,15.0718637712857
+Chile,CHL,2003,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,10.4166221785646
+Chile,CHL,2002,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,11.568317647867
+Chile,CHL,2001,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,11.3728809574193
+Chile,CHL,2000,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,21.1263037077698
+Chile,CHL,1999,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,33.2638707996874
+Chile,CHL,1998,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,31.9411980061393
+Chile,CHL,1997,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,28.1526864282067
+Chile,CHL,1996,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,30.9081443399603
+Chile,CHL,1995,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,22.8030113818818
+Chile,CHL,1994,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,18.5662855560391
+Chile,CHL,1993,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,11.8693496646253
+Chile,CHL,1992,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,11.6308187631355
+Chile,CHL,1991,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,21.2915184609989
+Chile,CHL,1990,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,35.5160026126715
+Chile,CHL,2023,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,26.557477945702
+Chile,CHL,2022,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,22.7251752400624
+Chile,CHL,2021,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,21.9807312140698
+Chile,CHL,2020,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,26.0414558356053
+Chile,CHL,2019,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,26.5817545353485
+Chile,CHL,2018,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,28.3778039568127
+Chile,CHL,2017,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,26.8305577583928
+Chile,CHL,2016,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,29.3367282627877
+Chile,CHL,2015,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,31.6665340652929
+Chile,CHL,2014,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,32.6473789097282
+Chile,CHL,2013,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,27.0129336891809
+Chile,CHL,2012,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,28.8999440868231
+Chile,CHL,2011,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,31.970842907796
+Chile,CHL,2010,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,35.9350696627726
+Chile,CHL,2009,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,41.6587068937123
+Chile,CHL,2008,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,40.5215730939301
+Chile,CHL,2007,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,39.5323796339025
+Chile,CHL,2006,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,52.6554591467824
+Chile,CHL,2005,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,50.4591875619236
+Chile,CHL,2004,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,42.9210279643806
+Chile,CHL,2003,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,46.2832859979927
+Chile,CHL,2002,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,50.9834901879966
+Chile,CHL,2001,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,49.3828031318333
+Chile,CHL,2000,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,46.1999101751584
+Chile,CHL,1999,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,35.3998437092993
+Chile,CHL,1998,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,44.9012926300375
+Chile,CHL,1997,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,56.900021022915
+Chile,CHL,1996,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,54.7977743793317
+Chile,CHL,1995,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,65.700931244871
+Chile,CHL,1994,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,67.1994303121415
+Chile,CHL,1993,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,74.374036578761
+Chile,CHL,1992,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,74.9005052989313
+Chile,CHL,1991,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,65.7983066980612
+Chile,CHL,1990,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,48.5956890920967
+Chile,CHL,2023,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,4.99555494768515
+Chile,CHL,2022,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,4.99571513327034
+Chile,CHL,2021,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,4.80015451384944
+Chile,CHL,2020,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,3.90627790411106
+Chile,CHL,2019,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,4.22195416164053
+Chile,CHL,2018,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,4.26407899051482
+Chile,CHL,2017,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,5.2553403068867
+Chile,CHL,2016,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,3.62139813951143
+Chile,CHL,2015,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,4.9155329249211
+Chile,CHL,2014,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,6.1679363419219
+Chile,CHL,2013,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,6.69267090946418
+Chile,CHL,2012,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,5.01641553526114
+Chile,CHL,2011,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,7.13253085386453
+Chile,CHL,2010,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,8.21888341000099
+Chile,CHL,2009,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,10.5464246895689
+Chile,CHL,2008,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,8.5103175666622
+Chile,CHL,2007,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,8.43459980515818
+Chile,CHL,2006,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,8.8647866955893
+Chile,CHL,2005,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,8.6502553159058
+Chile,CHL,2004,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,7.8776753632245
+Chile,CHL,2003,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,6.08597236755002
+Chile,CHL,2002,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,6.18030271805088
+Chile,CHL,2001,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,7.35933789471209
+Chile,CHL,2000,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,7.29327810769
+Chile,CHL,1999,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,5.7827559260224
+Chile,CHL,1998,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,8.17539215410178
+Chile,CHL,1997,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,8.10583536054299
+Chile,CHL,1996,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,8.55757654638337
+Chile,CHL,1995,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,10.4435009098369
+Chile,CHL,1994,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,10.9625351109704
+Chile,CHL,1993,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,11.9985001874766
+Chile,CHL,1992,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,10.6068058847203
+Chile,CHL,1991,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,11.1667752116627
+Chile,CHL,1990,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,10.5758763335511
+Chile,CHL,2023,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,15.373042467346
+Chile,CHL,2022,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,17.6756246017271
+Chile,CHL,2021,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,18.066759072008
+Chile,CHL,2020,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,18.2062790946865
+Chile,CHL,2019,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,18.7622696847135
+Chile,CHL,2018,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,15.8891898128469
+Chile,CHL,2017,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,16.8019838122931
+Chile,CHL,2016,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,14.9305468021277
+Chile,CHL,2015,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,15.0595380168139
+Chile,CHL,2014,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,14.4333102483287
+Chile,CHL,2013,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,15.2672278108534
+Chile,CHL,2012,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,18.4212412725266
+Chile,CHL,2011,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,20.877147596366
+Chile,CHL,2010,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,17.6887182711719
+Chile,CHL,2009,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,6.47211883666546
+Chile,CHL,2008,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,3.66474608066461
+Chile,CHL,2007,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,7.9133124818404
+Chile,CHL,2006,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,20.6760665220535
+Chile,CHL,2005,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,25.9126590961055
+Chile,CHL,2004,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,32.4910170285893
+Chile,CHL,2003,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,35.3968694612313
+Chile,CHL,2002,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,29.5917199056582
+Chile,CHL,2001,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,31.3677082598575
+Chile,CHL,2000,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,26.0716602624882
+Chile,CHL,1999,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,19.8567335243553
+Chile,CHL,1998,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,14.3879016587344
+Chile,CHL,1997,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,3.01528666246208
+Chile,CHL,1996,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0.998926235642469
+Chile,CHL,1995,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,1.0775323794912
+Chile,CHL,1994,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,1.18684970526566
+Chile,CHL,1993,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,1.19985001874766
+Chile,CHL,1992,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0.863032687922014
+Chile,CHL,1991,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0.981914733730775
+Chile,CHL,1990,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,1.0232963204877
+Chile,CHL,2021,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Chile,CHL,2020,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Chile,CHL,2019,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Chile,CHL,2018,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Chile,CHL,2017,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Chile,CHL,2016,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Chile,CHL,2015,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Chile,CHL,2014,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Chile,CHL,2013,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Chile,CHL,2012,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Chile,CHL,2011,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Chile,CHL,2010,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Chile,CHL,2009,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Chile,CHL,2008,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Chile,CHL,2007,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Chile,CHL,2006,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Chile,CHL,2005,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Chile,CHL,2004,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Chile,CHL,2003,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Chile,CHL,2002,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Chile,CHL,2001,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Chile,CHL,2000,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Chile,CHL,1999,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Chile,CHL,1998,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Chile,CHL,1997,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Chile,CHL,1996,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Chile,CHL,1995,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Chile,CHL,1994,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Chile,CHL,1993,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Chile,CHL,1992,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Chile,CHL,1991,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Chile,CHL,1990,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Chile,CHL,2023,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2.92347671476441
+Chile,CHL,2022,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,3.36197235711617
+Chile,CHL,2021,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,3.47769774364335
+Chile,CHL,2020,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2.05969545081138
+Chile,CHL,2019,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,1.38366564961328
+Chile,CHL,2018,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,1.56183582506467
+Chile,CHL,2017,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2.40927457422303
+Chile,CHL,2016,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,3.67181788388333
+Chile,CHL,2015,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,4.18489935555732
+Chile,CHL,2014,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,5.50506692295733
+Chile,CHL,2013,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,7.46048039416957
+Chile,CHL,2012,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,8.80847586414532
+Chile,CHL,2011,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,9.67084138602712
+Chile,CHL,2010,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,14.0152894066254
+Chile,CHL,2009,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,20.0075755080531
+Chile,CHL,2008,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,26.9496181160391
+Chile,CHL,2007,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,25.269616640175
+Chile,CHL,2006,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,4.90961677512654
+Chile,CHL,2005,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,6.4629220333816
+Chile,CHL,2004,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,5.53624433682237
+Chile,CHL,2003,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,4.02955433598838
+Chile,CHL,2002,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,3.38897666643768
+Chile,CHL,2001,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2.99781335966707
+Chile,CHL,2000,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,4.25420430161186
+Chile,CHL,1999,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,8.84865850481896
+Chile,CHL,1998,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,5.50001408093723
+Chile,CHL,1997,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,6.6973000570622
+Chile,CHL,1996,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,7.63999609540234
+Chile,CHL,1995,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,3.71427552003425
+Chile,CHL,1994,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,5.98172251453891
+Chile,CHL,1993,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,5.26600841561471
+Chile,CHL,1992,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,4.81151902696418
+Chile,CHL,1991,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,6.7531686789239
+Chile,CHL,1990,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,9.62333986501197
+Chile,CHL,2023,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,4240.07831593276
+Chile,CHL,2022,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,4422.38228375379
+Chile,CHL,2021,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,4306.7208858565
+Chile,CHL,2020,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,4166.72173286725
+Chile,CHL,2019,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,4218.62068793083
+Chile,CHL,2018,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,4172.29678141718
+Chile,CHL,2017,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,4053.47998595604
+Chile,CHL,2016,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,4185.58466008595
+Chile,CHL,2015,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,3973.20977136881
+Chile,CHL,2014,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,3716.31635234613
+Chile,CHL,2013,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,3854.52461541541
+Chile,CHL,2012,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,3781.69701341717
+Chile,CHL,2011,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,3559.16637198089
+Chile,CHL,2010,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,3284.06240585785
+Chile,CHL,2009,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,3272.59731503103
+Chile,CHL,2008,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,3312.37245373653
+Chile,CHL,2007,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,3311.14367617564
+Chile,CHL,2006,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,3192.22106226258
+Chile,CHL,2005,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,3064.20455400398
+Chile,CHL,2004,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,3031.81712206627
+Chile,CHL,2003,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2866.12859905726
+Chile,CHL,2002,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2698.02007513593
+Chile,CHL,2001,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2600.57336690757
+Chile,CHL,2000,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2473.29094112445
+Chile,CHL,1999,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2368.51352276698
+Chile,CHL,1998,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2155.36972695103
+Chile,CHL,1997,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2049.0966174704
+Chile,CHL,1996,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1907.3511783525
+Chile,CHL,1995,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1727.77185371541
+Chile,CHL,1994,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1572.05906348699
+Chile,CHL,1993,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1497.84332685022
+Chile,CHL,1992,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1439.79899423655
+Chile,CHL,1991,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1297.8599583341
+Chile,CHL,1990,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1222.65273596178
+Chile,CHL,1989,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1194.47552233238
+Chile,CHL,1988,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1108.43372752516
+Chile,CHL,1987,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1042.28644699241
+Chile,CHL,1986,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1016.44987009999
+Chile,CHL,1985,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,977.14661249118
+Chile,CHL,1984,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,956.606767202395
+Chile,CHL,1983,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,897.544997404819
+Chile,CHL,1982,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,879.393401671902
+Chile,CHL,1981,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,911.487109414502
+Chile,CHL,1980,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,895.768797980632
+Chile,CHL,1979,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,869.858222104681
+Chile,CHL,1978,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,827.821756523381
+Chile,CHL,1977,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,787.877427679694
+Chile,CHL,1976,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,762.945977169195
+Chile,CHL,1975,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,725.760875238566
+Chile,CHL,1974,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,794.702591906941
+Chile,CHL,1973,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,752.391453993584
+Chile,CHL,1972,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,782.334340212044
+Chile,CHL,1971,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,756.16644293371
+Chile,CHL,2021,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,90.8866234167
+Chile,CHL,2020,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,90.8866234167
+Chile,CHL,2019,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,90.8866234167
+Chile,CHL,2018,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,90.8866234167
+Chile,CHL,2017,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,90.8866234167
+Chile,CHL,2016,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,90.8866234167
+Chile,CHL,2015,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,90.0352245219
+Chile,CHL,2014,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,89.1996288907
+Chile,CHL,2013,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,88.3794005702
+Chile,CHL,2012,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,87.5741194961
+Chile,CHL,2011,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,86.7833807761
+Chile,CHL,2010,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,86.0067940105
+Chile,CHL,2009,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,85.2439826499
+Chile,CHL,2008,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,84.494583386
+Chile,CHL,2007,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,83.7582455751
+Chile,CHL,2006,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,83.0369743156
+Chile,CHL,2021,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,3.9851714551
+Chile,CHL,2020,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,3.9851714551
+Chile,CHL,2019,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,3.9851714551
+Chile,CHL,2018,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,3.9851714551
+Chile,CHL,2017,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,3.9851714551
+Chile,CHL,2016,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,3.9851714551
+Chile,CHL,2015,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,3.9408007688
+Chile,CHL,2014,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,3.8972536702
+Chile,CHL,2013,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,3.8545074396
+Chile,CHL,2012,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,3.8125401853
+Chile,CHL,2011,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,3.7713308063
+Chile,CHL,2010,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,3.730858957
+Chile,CHL,2009,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,3.6911050135
+Chile,CHL,2008,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,3.6520500419
+Chile,CHL,2007,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,3.6136757685
+Chile,CHL,2006,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,3.5760654812
+Chile,CHL,2005,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,3.5799645095
+Chile,CHL,2004,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,3.5841170324
+Chile,CHL,2003,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,3.5885486019
+Chile,CHL,2002,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,3.5932883235
+Chile,CHL,2001,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,3.5983694963
+Chile,CHL,2000,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,3.6038303964
+Chile,CHL,1999,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,3.7670495334
+Chile,CHL,1998,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,3.9434515871
+Chile,CHL,1997,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,4.1347009117
+Chile,CHL,1996,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,4.3427543381
+Chile,CHL,1995,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,4.569928372
+Chile,CHL,1994,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,4.8189858115
+Chile,CHL,1993,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,5.0932486631
+Chile,CHL,1992,"Annual freshwater withdrawals, domestic (% of total freshwater withdrawal)",ER.H2O.FWDM.ZS,5.3967471661
+Chile,CHL,2021,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,5.1282051282
+Chile,CHL,2020,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,5.1282051282
+Chile,CHL,2019,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,5.1282051282
+Chile,CHL,2018,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,5.1282051282
+Chile,CHL,2017,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,5.1282051282
+Chile,CHL,2016,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,5.1282051282
+Chile,CHL,2015,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,6.0239747093
+Chile,CHL,2014,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,6.9031174391
+Chile,CHL,2013,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,7.7660919903
+Chile,CHL,2012,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,8.6133403186
+Chile,CHL,2011,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,9.4452884176
+Chile,CHL,2010,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,10.2623470324
+Chile,CHL,2009,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,11.0649123366
+Chile,CHL,2008,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,11.8533665721
+Chile,CHL,2007,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,12.6280786565
+Chile,CHL,2006,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,13.3897826701
+Chile,CHL,2005,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,12.6371097432
+Chile,CHL,2004,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,11.8355019253
+Chile,CHL,2003,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,10.9800266312
+Chile,CHL,2002,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,10.0650652949
+Chile,CHL,2001,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,9.0841898236
+Chile,CHL,2000,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,8.030011353
+Chile,CHL,1999,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,8.2910086145
+Chile,CHL,1998,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,8.5730861563
+Chile,CHL,1997,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,8.8789053814
+Chile,CHL,1996,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,9.2115953804
+Chile,CHL,1995,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,9.5748603861
+Chile,CHL,1994,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,9.9731182796
+Chile,CHL,1993,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,10.4116811497
+Chile,CHL,1992,"Annual freshwater withdrawals, industry (% of total freshwater withdrawal)",ER.H2O.FWIN.ZS,10.8969935929
+Chile,CHL,2021,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,35.368
+Chile,CHL,2020,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,35.368
+Chile,CHL,2019,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,35.368
+Chile,CHL,2018,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,35.368
+Chile,CHL,2017,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,35.368
+Chile,CHL,2016,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,35.368
+Chile,CHL,2015,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,35.368
+Chile,CHL,2014,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,35.368
+Chile,CHL,2013,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,35.368
+Chile,CHL,2012,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,35.368
+Chile,CHL,2011,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,35.368
+Chile,CHL,2010,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,35.368
+Chile,CHL,2009,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,35.368
+Chile,CHL,2008,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,35.368
+Chile,CHL,2007,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,35.368
+Chile,CHL,2006,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,35.36
+Chile,CHL,2005,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,34.2835714286
+Chile,CHL,2004,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,33.2071428571
+Chile,CHL,2003,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,32.1307142857
+Chile,CHL,2002,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,31.0895357143
+Chile,CHL,2001,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,30.0130821429
+Chile,CHL,2000,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,28.9366285714
+Chile,CHL,1999,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,27.8552
+Chile,CHL,1998,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,26.7737714286
+Chile,CHL,1997,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,25.6923428571
+Chile,CHL,1996,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,24.6109142857
+Chile,CHL,1995,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,23.5294857143
+Chile,CHL,1994,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,22.4480571429
+Chile,CHL,1993,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,21.3666285714
+Chile,CHL,1992,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,20.2852
+Chile,CHL,2021,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,3.99638418079096
+Chile,CHL,2020,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,3.99638418079096
+Chile,CHL,2019,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,3.99638418079096
+Chile,CHL,2018,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,3.99638418079096
+Chile,CHL,2017,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,3.99638418079096
+Chile,CHL,2016,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,3.99638418079096
+Chile,CHL,2015,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,3.99638418079096
+Chile,CHL,2014,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,3.99638418079096
+Chile,CHL,2013,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,3.99638418079096
+Chile,CHL,2012,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,3.99638418079096
+Chile,CHL,2011,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,3.99638418079096
+Chile,CHL,2010,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,3.99638418079096
+Chile,CHL,2009,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,3.99638418079096
+Chile,CHL,2008,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,3.99638418079096
+Chile,CHL,2007,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,3.99638418079096
+Chile,CHL,2006,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,3.9954802259887
+Chile,CHL,2005,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,3.87384987893785
+Chile,CHL,2004,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,3.75221953187571
+Chile,CHL,2003,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,3.63058918482486
+Chile,CHL,2002,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,3.51294188862147
+Chile,CHL,2001,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,3.39130871671186
+Chile,CHL,2000,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,3.26967554479096
+Chile,CHL,1999,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,3.1474802259887
+Chile,CHL,1998,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,3.02528490718644
+Chile,CHL,1997,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,2.90308958837288
+Chile,CHL,1996,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,2.78089426957062
+Chile,CHL,1995,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,2.65869895076836
+Chile,CHL,1994,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,2.5365036319661
+Chile,CHL,1993,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,2.41430831315254
+Chile,CHL,1992,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,2.29211299435028
+Chile,CHL,2021,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,885
+Chile,CHL,2020,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,885
+Chile,CHL,2019,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,885
+Chile,CHL,2018,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,885
+Chile,CHL,2017,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,885
+Chile,CHL,2016,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,885
+Chile,CHL,2015,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,885
+Chile,CHL,2014,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,885
+Chile,CHL,2013,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,885
+Chile,CHL,2012,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,885
+Chile,CHL,2011,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,885
+Chile,CHL,2010,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,885
+Chile,CHL,2009,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,885
+Chile,CHL,2008,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,885
+Chile,CHL,2007,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,885
+Chile,CHL,2006,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,885
+Chile,CHL,2005,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,885
+Chile,CHL,2004,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,885
+Chile,CHL,2003,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,885
+Chile,CHL,2002,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,885
+Chile,CHL,2001,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,885
+Chile,CHL,2000,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,885
+Chile,CHL,1999,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,885
+Chile,CHL,1998,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,885
+Chile,CHL,1997,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,885
+Chile,CHL,1996,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,885
+Chile,CHL,1995,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,885
+Chile,CHL,1994,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,885
+Chile,CHL,1993,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,885
+Chile,CHL,1992,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,885
+Chile,CHL,1991,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,885
+Chile,CHL,1990,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,885
+Chile,CHL,1989,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,885
+Chile,CHL,1988,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,885
+Chile,CHL,1987,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,885
+Chile,CHL,1986,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,885
+Chile,CHL,1985,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,885
+Chile,CHL,1984,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,885
+Chile,CHL,1983,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,885
+Chile,CHL,1982,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,885
+Chile,CHL,1981,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,885
+Chile,CHL,1980,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,885
+Chile,CHL,1979,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,885
+Chile,CHL,1978,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,885
+Chile,CHL,1977,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,885
+Chile,CHL,1976,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,885
+Chile,CHL,1975,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,885
+Chile,CHL,1974,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,885
+Chile,CHL,1973,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,885
+Chile,CHL,1972,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,885
+Chile,CHL,1971,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,885
+Chile,CHL,1970,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,885
+Chile,CHL,1969,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,885
+Chile,CHL,1968,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,885
+Chile,CHL,1967,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,885
+Chile,CHL,1966,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,885
+Chile,CHL,1965,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,885
+Chile,CHL,1964,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,885
+Chile,CHL,1963,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,885
+Chile,CHL,1962,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,885
+Chile,CHL,1961,"Renewable internal freshwater resources, total (billion cubic meters)",ER.H2O.INTR.K3,885
+Chile,CHL,2021,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,45486.4724258948
+Chile,CHL,2020,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,45687.738298983
+Chile,CHL,2019,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,46099.1666520816
+Chile,CHL,2018,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,46842.2724356092
+Chile,CHL,2017,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,47686.0980960692
+Chile,CHL,2016,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,48447.4348889741
+Chile,CHL,2015,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,49036.9231408565
+Chile,CHL,2014,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,49540.4354912158
+Chile,CHL,2013,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,50036.7331814101
+Chile,CHL,2012,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,50516.2388588148
+Chile,CHL,2011,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,51003.3070890102
+Chile,CHL,2010,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,51508.9983018909
+Chile,CHL,2009,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,52029.0414939543
+Chile,CHL,2008,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,52556.6025701782
+Chile,CHL,2007,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,53084.3475492816
+Chile,CHL,2006,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,53606.4902013696
+Chile,CHL,2005,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,54132.4862323043
+Chile,CHL,2004,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,54672.4158572987
+Chile,CHL,2003,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,55227.063732406
+Chile,CHL,2002,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,55808.0581160524
+Chile,CHL,2001,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,56427.4751688823
+Chile,CHL,2000,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,57083.3872185458
+Chile,CHL,1999,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,57770.2146303819
+Chile,CHL,1998,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,58501.5705192804
+Chile,CHL,1997,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,59266.9621041017
+Chile,CHL,1996,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,60064.9678981591
+Chile,CHL,1995,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,60919.4458381728
+Chile,CHL,1994,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,61817.8384069131
+Chile,CHL,1993,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,62755.8274990505
+Chile,CHL,1992,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,63739.7883997474
+Chile,CHL,1991,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,64775.888964904
+Chile,CHL,1990,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,65862.053157598
+Chile,CHL,1989,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,66969.3276695696
+Chile,CHL,1988,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,68079.9395419366
+Chile,CHL,1987,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,69193.8718466945
+Chile,CHL,1986,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,70299.9480336429
+Chile,CHL,1985,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,71398.1796610547
+Chile,CHL,1984,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,72495.0324519712
+Chile,CHL,1983,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,73589.7093480883
+Chile,CHL,1982,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,74682.1956126699
+Chile,CHL,1981,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,75778.8719428684
+Chile,CHL,1980,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,76899.3487450635
+Chile,CHL,1979,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,78043.849002701
+Chile,CHL,1978,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,79210.9692424254
+Chile,CHL,1977,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,80414.1994575631
+Chile,CHL,1976,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,81655.2412377237
+Chile,CHL,1975,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,82930.7133100234
+Chile,CHL,1974,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,84239.045854311
+Chile,CHL,1973,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,85586.9456020979
+Chile,CHL,1972,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,86980.6395838767
+Chile,CHL,1971,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,88414.2293561016
+Chile,CHL,1970,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,89890.205969441
+Chile,CHL,1969,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,91422.9564799868
+Chile,CHL,1968,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,93013.8114474462
+Chile,CHL,1967,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,94663.1484064662
+Chile,CHL,1966,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,96387.148293098
+Chile,CHL,1965,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,98192.176624315
+Chile,CHL,1964,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,100084.534677595
+Chile,CHL,1963,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,102074.429213632
+Chile,CHL,1962,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,104153.684233568
+Chile,CHL,1961,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,106308.834732646
+Chile,CHL,2021,"Industrial design applications, nonresident, by count",IP.IDS.NRCT,346
+Chile,CHL,2020,"Industrial design applications, nonresident, by count",IP.IDS.NRCT,382
+Chile,CHL,2019,"Industrial design applications, nonresident, by count",IP.IDS.NRCT,477
+Chile,CHL,2018,"Industrial design applications, nonresident, by count",IP.IDS.NRCT,553
+Chile,CHL,2017,"Industrial design applications, nonresident, by count",IP.IDS.NRCT,356
+Chile,CHL,2016,"Industrial design applications, nonresident, by count",IP.IDS.NRCT,311
+Chile,CHL,2015,"Industrial design applications, nonresident, by count",IP.IDS.NRCT,359
+Chile,CHL,2014,"Industrial design applications, nonresident, by count",IP.IDS.NRCT,355
+Chile,CHL,2013,"Industrial design applications, nonresident, by count",IP.IDS.NRCT,671
+Chile,CHL,2012,"Industrial design applications, nonresident, by count",IP.IDS.NRCT,447
+Chile,CHL,2011,"Industrial design applications, nonresident, by count",IP.IDS.NRCT,472
+Chile,CHL,2010,"Industrial design applications, nonresident, by count",IP.IDS.NRCT,452
+Chile,CHL,2009,"Industrial design applications, nonresident, by count",IP.IDS.NRCT,334
+Chile,CHL,2008,"Industrial design applications, nonresident, by count",IP.IDS.NRCT,387
+Chile,CHL,2007,"Industrial design applications, nonresident, by count",IP.IDS.NRCT,361
+Chile,CHL,2006,"Industrial design applications, nonresident, by count",IP.IDS.NRCT,310
+Chile,CHL,2005,"Industrial design applications, nonresident, by count",IP.IDS.NRCT,265
+Chile,CHL,2004,"Industrial design applications, nonresident, by count",IP.IDS.NRCT,265
+Chile,CHL,2003,"Industrial design applications, nonresident, by count",IP.IDS.NRCT,203
+Chile,CHL,2002,"Industrial design applications, nonresident, by count",IP.IDS.NRCT,302
+Chile,CHL,2001,"Industrial design applications, nonresident, by count",IP.IDS.NRCT,266
+Chile,CHL,2000,"Industrial design applications, nonresident, by count",IP.IDS.NRCT,348
+Chile,CHL,1999,"Industrial design applications, nonresident, by count",IP.IDS.NRCT,219
+Chile,CHL,1998,"Industrial design applications, nonresident, by count",IP.IDS.NRCT,285
+Chile,CHL,1997,"Industrial design applications, nonresident, by count",IP.IDS.NRCT,218
+Chile,CHL,1996,"Industrial design applications, nonresident, by count",IP.IDS.NRCT,228
+Chile,CHL,1995,"Industrial design applications, nonresident, by count",IP.IDS.NRCT,207
+Chile,CHL,1994,"Industrial design applications, nonresident, by count",IP.IDS.NRCT,146
+Chile,CHL,1992,"Industrial design applications, nonresident, by count",IP.IDS.NRCT,122
+Chile,CHL,1991,"Industrial design applications, nonresident, by count",IP.IDS.NRCT,99
+Chile,CHL,1990,"Industrial design applications, nonresident, by count",IP.IDS.NRCT,74
+Chile,CHL,1989,"Industrial design applications, nonresident, by count",IP.IDS.NRCT,52
+Chile,CHL,1988,"Industrial design applications, nonresident, by count",IP.IDS.NRCT,55
+Chile,CHL,1987,"Industrial design applications, nonresident, by count",IP.IDS.NRCT,36
+Chile,CHL,1986,"Industrial design applications, nonresident, by count",IP.IDS.NRCT,74
+Chile,CHL,1985,"Industrial design applications, nonresident, by count",IP.IDS.NRCT,26
+Chile,CHL,1984,"Industrial design applications, nonresident, by count",IP.IDS.NRCT,35
+Chile,CHL,1983,"Industrial design applications, nonresident, by count",IP.IDS.NRCT,18
+Chile,CHL,1982,"Industrial design applications, nonresident, by count",IP.IDS.NRCT,33
+Chile,CHL,1981,"Industrial design applications, nonresident, by count",IP.IDS.NRCT,50
+Chile,CHL,1980,"Industrial design applications, nonresident, by count",IP.IDS.NRCT,78
+Chile,CHL,2021,"Industrial design applications, resident, by count",IP.IDS.RSCT,42
+Chile,CHL,2020,"Industrial design applications, resident, by count",IP.IDS.RSCT,77
+Chile,CHL,2019,"Industrial design applications, resident, by count",IP.IDS.RSCT,51
+Chile,CHL,2018,"Industrial design applications, resident, by count",IP.IDS.RSCT,49
+Chile,CHL,2017,"Industrial design applications, resident, by count",IP.IDS.RSCT,82
+Chile,CHL,2016,"Industrial design applications, resident, by count",IP.IDS.RSCT,89
+Chile,CHL,2015,"Industrial design applications, resident, by count",IP.IDS.RSCT,43
+Chile,CHL,2014,"Industrial design applications, resident, by count",IP.IDS.RSCT,110
+Chile,CHL,2013,"Industrial design applications, resident, by count",IP.IDS.RSCT,91
+Chile,CHL,2012,"Industrial design applications, resident, by count",IP.IDS.RSCT,91
+Chile,CHL,2011,"Industrial design applications, resident, by count",IP.IDS.RSCT,57
+Chile,CHL,2010,"Industrial design applications, resident, by count",IP.IDS.RSCT,41
+Chile,CHL,2009,"Industrial design applications, resident, by count",IP.IDS.RSCT,63
+Chile,CHL,2008,"Industrial design applications, resident, by count",IP.IDS.RSCT,98
+Chile,CHL,2007,"Industrial design applications, resident, by count",IP.IDS.RSCT,62
+Chile,CHL,2006,"Industrial design applications, resident, by count",IP.IDS.RSCT,94
+Chile,CHL,2005,"Industrial design applications, resident, by count",IP.IDS.RSCT,70
+Chile,CHL,2004,"Industrial design applications, resident, by count",IP.IDS.RSCT,71
+Chile,CHL,2003,"Industrial design applications, resident, by count",IP.IDS.RSCT,69
+Chile,CHL,2002,"Industrial design applications, resident, by count",IP.IDS.RSCT,56
+Chile,CHL,2001,"Industrial design applications, resident, by count",IP.IDS.RSCT,61
+Chile,CHL,2000,"Industrial design applications, resident, by count",IP.IDS.RSCT,74
+Chile,CHL,1999,"Industrial design applications, resident, by count",IP.IDS.RSCT,65
+Chile,CHL,1998,"Industrial design applications, resident, by count",IP.IDS.RSCT,45
+Chile,CHL,1997,"Industrial design applications, resident, by count",IP.IDS.RSCT,46
+Chile,CHL,1996,"Industrial design applications, resident, by count",IP.IDS.RSCT,107
+Chile,CHL,1995,"Industrial design applications, resident, by count",IP.IDS.RSCT,69
+Chile,CHL,1994,"Industrial design applications, resident, by count",IP.IDS.RSCT,98
+Chile,CHL,1992,"Industrial design applications, resident, by count",IP.IDS.RSCT,75
+Chile,CHL,1991,"Industrial design applications, resident, by count",IP.IDS.RSCT,132
+Chile,CHL,1990,"Industrial design applications, resident, by count",IP.IDS.RSCT,146
+Chile,CHL,1989,"Industrial design applications, resident, by count",IP.IDS.RSCT,106
+Chile,CHL,1988,"Industrial design applications, resident, by count",IP.IDS.RSCT,139
+Chile,CHL,1987,"Industrial design applications, resident, by count",IP.IDS.RSCT,77
+Chile,CHL,1986,"Industrial design applications, resident, by count",IP.IDS.RSCT,61
+Chile,CHL,1985,"Industrial design applications, resident, by count",IP.IDS.RSCT,55
+Chile,CHL,1984,"Industrial design applications, resident, by count",IP.IDS.RSCT,54
+Chile,CHL,1983,"Industrial design applications, resident, by count",IP.IDS.RSCT,54
+Chile,CHL,1982,"Industrial design applications, resident, by count",IP.IDS.RSCT,69
+Chile,CHL,1981,"Industrial design applications, resident, by count",IP.IDS.RSCT,76
+Chile,CHL,1980,"Industrial design applications, resident, by count",IP.IDS.RSCT,106
+Chile,CHL,2021,"Trademark applications, nonresident, by count",IP.TMK.NRCT,15595
+Chile,CHL,2020,"Trademark applications, nonresident, by count",IP.TMK.NRCT,13214
+Chile,CHL,2019,"Trademark applications, nonresident, by count",IP.TMK.NRCT,14032
+Chile,CHL,2018,"Trademark applications, nonresident, by count",IP.TMK.NRCT,14505
+Chile,CHL,2017,"Trademark applications, nonresident, by count",IP.TMK.NRCT,13640
+Chile,CHL,2016,"Trademark applications, nonresident, by count",IP.TMK.NRCT,13548
+Chile,CHL,2015,"Trademark applications, nonresident, by count",IP.TMK.NRCT,14061
+Chile,CHL,2014,"Trademark applications, nonresident, by count",IP.TMK.NRCT,13701
+Chile,CHL,2013,"Trademark applications, nonresident, by count",IP.TMK.NRCT,13794
+Chile,CHL,2012,"Trademark applications, nonresident, by count",IP.TMK.NRCT,13684
+Chile,CHL,2011,"Trademark applications, nonresident, by count",IP.TMK.NRCT,13925
+Chile,CHL,2010,"Trademark applications, nonresident, by count",IP.TMK.NRCT,24328
+Chile,CHL,2009,"Trademark applications, nonresident, by count",IP.TMK.NRCT,21281
+Chile,CHL,2008,"Trademark applications, nonresident, by count",IP.TMK.NRCT,12036
+Chile,CHL,2007,"Trademark applications, nonresident, by count",IP.TMK.NRCT,10908
+Chile,CHL,2021,"Trademark applications, resident, by count",IP.TMK.RSCT,53520
+Chile,CHL,2020,"Trademark applications, resident, by count",IP.TMK.RSCT,46719
+Chile,CHL,2019,"Trademark applications, resident, by count",IP.TMK.RSCT,32915
+Chile,CHL,2018,"Trademark applications, resident, by count",IP.TMK.RSCT,32909
+Chile,CHL,2017,"Trademark applications, resident, by count",IP.TMK.RSCT,31720
+Chile,CHL,2016,"Trademark applications, resident, by count",IP.TMK.RSCT,31820
+Chile,CHL,2015,"Trademark applications, resident, by count",IP.TMK.RSCT,28903
+Chile,CHL,2014,"Trademark applications, resident, by count",IP.TMK.RSCT,28939
+Chile,CHL,2013,"Trademark applications, resident, by count",IP.TMK.RSCT,29167
+Chile,CHL,2012,"Trademark applications, resident, by count",IP.TMK.RSCT,28169
+Chile,CHL,2011,"Trademark applications, resident, by count",IP.TMK.RSCT,30011
+Chile,CHL,2010,"Trademark applications, resident, by count",IP.TMK.RSCT,50733
+Chile,CHL,2009,"Trademark applications, resident, by count",IP.TMK.RSCT,48771
+Chile,CHL,2008,"Trademark applications, resident, by count",IP.TMK.RSCT,28130
+Chile,CHL,2007,"Trademark applications, resident, by count",IP.TMK.RSCT,28833
+Chile,CHL,2021,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,95001
+Chile,CHL,2020,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,72839
+Chile,CHL,2019,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,143964
+Chile,CHL,2018,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,134661
+Chile,CHL,2017,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,124316
+Chile,CHL,2016,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,116238
+Chile,CHL,2015,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,116532
+Chile,CHL,2014,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,124480
+Chile,CHL,2013,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,127631
+Chile,CHL,2012,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,125120
+Chile,CHL,2011,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,123739
+Chile,CHL,2010,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,108840
+Chile,CHL,2009,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,97473
+Chile,CHL,2008,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,108565
+Chile,CHL,2007,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,101008
+Chile,CHL,2006,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,94770
+Chile,CHL,2005,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,93003
+Chile,CHL,2004,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,86140
+Chile,CHL,2003,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,82789
+Chile,CHL,2002,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,78187
+Chile,CHL,2001,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,82942
+Chile,CHL,2000,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,87945
+Chile,CHL,1999,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,92500
+Chile,CHL,1998,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,119100
+Chile,CHL,1997,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,109300
+Chile,CHL,1996,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,93700
+Chile,CHL,1995,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,77800
+Chile,CHL,1994,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,68800
+Chile,CHL,1993,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,58600
+Chile,CHL,1992,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,48200
+Chile,CHL,1991,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,36600
+Chile,CHL,1990,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,40100
+Chile,CHL,1989,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,36000
+Chile,CHL,1988,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,35300
+Chile,CHL,1987,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,29000
+Chile,CHL,1986,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,26300
+Chile,CHL,1985,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,25300
+Chile,CHL,1984,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,20100
+Chile,CHL,1983,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,19200
+Chile,CHL,1982,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,20700
+Chile,CHL,1981,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,18300
+Chile,CHL,1980,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,13700
+Chile,CHL,1979,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,12500
+Chile,CHL,1978,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,14100
+Chile,CHL,1977,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,14800
+Chile,CHL,1976,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,14300
+Chile,CHL,1975,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,16600
+Chile,CHL,1974,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,21500
+Chile,CHL,1973,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,21200
+Chile,CHL,1972,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,24800
+Chile,CHL,1971,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,27000
+Chile,CHL,1970,"Air transport, registered carrier departures worldwide",IS.AIR.DPRT,24900
+Chile,CHL,2021,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,1283.99841
+Chile,CHL,2020,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,1458.39578
+Chile,CHL,2019,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,1232.41109
+Chile,CHL,2018,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,1226.44199
+Chile,CHL,2017,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,1237.960141
+Chile,CHL,2016,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,1441.23
+Chile,CHL,2015,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,1392.236
+Chile,CHL,2014,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,1553.479
+Chile,CHL,2013,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,1512.319
+Chile,CHL,2012,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,1527.067
+Chile,CHL,2011,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,1422.29934
+Chile,CHL,2010,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,1399.549392
+Chile,CHL,2009,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,1179.048
+Chile,CHL,2008,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,1307.721
+Chile,CHL,2007,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,1294.967
+Chile,CHL,2006,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,1027.669
+Chile,CHL,2005,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,1053.819
+Chile,CHL,2004,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,1094.133
+Chile,CHL,2003,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,1130.19
+Chile,CHL,2002,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,1098.015
+Chile,CHL,2001,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,1277.282
+Chile,CHL,2000,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,1312.011
+Chile,CHL,1999,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,1139.4000244141
+Chile,CHL,1998,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,1246.1999511719
+Chile,CHL,1997,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,1071.1999511719
+Chile,CHL,1996,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,806.200012207
+Chile,CHL,1995,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,775.4000244141
+Chile,CHL,1994,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,652.5
+Chile,CHL,1993,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,616.200012207
+Chile,CHL,1992,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,529
+Chile,CHL,1991,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,428.8999938965
+Chile,CHL,1990,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,418.5
+Chile,CHL,1989,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,329.5
+Chile,CHL,1988,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,242.8000030518
+Chile,CHL,1987,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,186.3999938965
+Chile,CHL,1986,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,137.1999969482
+Chile,CHL,1985,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,114.1999969482
+Chile,CHL,1984,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,105.4000015259
+Chile,CHL,1983,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,120.3000030518
+Chile,CHL,1982,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,141.6999969482
+Chile,CHL,1981,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,153.3000030518
+Chile,CHL,1980,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,144.8999938965
+Chile,CHL,1979,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,85
+Chile,CHL,1978,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,102.0999984741
+Chile,CHL,1977,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,105.1999969482
+Chile,CHL,1976,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,75.6999969482
+Chile,CHL,1975,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,57.2000007629
+Chile,CHL,1974,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,55.2000007629
+Chile,CHL,1973,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,46.7000007629
+Chile,CHL,1972,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,52.7000007629
+Chile,CHL,1971,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,46.7999992371
+Chile,CHL,1970,"Air transport, freight (million ton-km)",IS.AIR.GOOD.MT.K1,41.0999984741
+Chile,CHL,2021,"Air transport, passengers carried",IS.AIR.PSGR,10302876
+Chile,CHL,2020,"Air transport, passengers carried",IS.AIR.PSGR,8019753
+Chile,CHL,2019,"Air transport, passengers carried",IS.AIR.PSGR,21197759
+Chile,CHL,2018,"Air transport, passengers carried",IS.AIR.PSGR,19517185
+Chile,CHL,2017,"Air transport, passengers carried",IS.AIR.PSGR,17664974
+Chile,CHL,2016,"Air transport, passengers carried",IS.AIR.PSGR,16362437
+Chile,CHL,2015,"Air transport, passengers carried",IS.AIR.PSGR,15006762
+Chile,CHL,2014,"Air transport, passengers carried",IS.AIR.PSGR,14347893
+Chile,CHL,2013,"Air transport, passengers carried",IS.AIR.PSGR,13806283
+Chile,CHL,2012,"Air transport, passengers carried",IS.AIR.PSGR,12892856
+Chile,CHL,2011,"Air transport, passengers carried",IS.AIR.PSGR,10949863
+Chile,CHL,2010,"Air transport, passengers carried",IS.AIR.PSGR,9269026
+Chile,CHL,2009,"Air transport, passengers carried",IS.AIR.PSGR,8097314
+Chile,CHL,2008,"Air transport, passengers carried",IS.AIR.PSGR,8021939
+Chile,CHL,2007,"Air transport, passengers carried",IS.AIR.PSGR,7190963
+Chile,CHL,2006,"Air transport, passengers carried",IS.AIR.PSGR,6016649
+Chile,CHL,2005,"Air transport, passengers carried",IS.AIR.PSGR,5939020
+Chile,CHL,2004,"Air transport, passengers carried",IS.AIR.PSGR,5463753
+Chile,CHL,2003,"Air transport, passengers carried",IS.AIR.PSGR,5246787
+Chile,CHL,2002,"Air transport, passengers carried",IS.AIR.PSGR,4986727
+Chile,CHL,2001,"Air transport, passengers carried",IS.AIR.PSGR,5315623
+Chile,CHL,2000,"Air transport, passengers carried",IS.AIR.PSGR,5174876
+Chile,CHL,1999,"Air transport, passengers carried",IS.AIR.PSGR,5187700
+Chile,CHL,1998,"Air transport, passengers carried",IS.AIR.PSGR,5149800
+Chile,CHL,1997,"Air transport, passengers carried",IS.AIR.PSGR,4610000
+Chile,CHL,1996,"Air transport, passengers carried",IS.AIR.PSGR,3621900
+Chile,CHL,1995,"Air transport, passengers carried",IS.AIR.PSGR,3197200
+Chile,CHL,1994,"Air transport, passengers carried",IS.AIR.PSGR,2961700
+Chile,CHL,1993,"Air transport, passengers carried",IS.AIR.PSGR,2360000
+Chile,CHL,1992,"Air transport, passengers carried",IS.AIR.PSGR,1905800
+Chile,CHL,1991,"Air transport, passengers carried",IS.AIR.PSGR,1405900
+Chile,CHL,1990,"Air transport, passengers carried",IS.AIR.PSGR,1363600
+Chile,CHL,1989,"Air transport, passengers carried",IS.AIR.PSGR,1263800
+Chile,CHL,1988,"Air transport, passengers carried",IS.AIR.PSGR,1144100
+Chile,CHL,1987,"Air transport, passengers carried",IS.AIR.PSGR,992400
+Chile,CHL,1986,"Air transport, passengers carried",IS.AIR.PSGR,875200
+Chile,CHL,1985,"Air transport, passengers carried",IS.AIR.PSGR,825200
+Chile,CHL,1984,"Air transport, passengers carried",IS.AIR.PSGR,730800
+Chile,CHL,1983,"Air transport, passengers carried",IS.AIR.PSGR,651900
+Chile,CHL,1982,"Air transport, passengers carried",IS.AIR.PSGR,822400
+Chile,CHL,1981,"Air transport, passengers carried",IS.AIR.PSGR,885700
+Chile,CHL,1980,"Air transport, passengers carried",IS.AIR.PSGR,668800
+Chile,CHL,1979,"Air transport, passengers carried",IS.AIR.PSGR,558900
+Chile,CHL,1978,"Air transport, passengers carried",IS.AIR.PSGR,552700
+Chile,CHL,1977,"Air transport, passengers carried",IS.AIR.PSGR,589400
+Chile,CHL,1976,"Air transport, passengers carried",IS.AIR.PSGR,489900
+Chile,CHL,1975,"Air transport, passengers carried",IS.AIR.PSGR,509700
+Chile,CHL,1974,"Air transport, passengers carried",IS.AIR.PSGR,505200
+Chile,CHL,1973,"Air transport, passengers carried",IS.AIR.PSGR,636200
+Chile,CHL,1972,"Air transport, passengers carried",IS.AIR.PSGR,730000
+Chile,CHL,1971,"Air transport, passengers carried",IS.AIR.PSGR,690600
+Chile,CHL,1970,"Air transport, passengers carried",IS.AIR.PSGR,574700
+Chile,CHL,2020,"Railways, goods transported (million ton-km)",IS.RRS.GOOD.MT.K6,3585.4572606123
+Chile,CHL,2019,"Railways, goods transported (million ton-km)",IS.RRS.GOOD.MT.K6,3079.8397523271
+Chile,CHL,2018,"Railways, goods transported (million ton-km)",IS.RRS.GOOD.MT.K6,3816.070253512
+Chile,CHL,2017,"Railways, goods transported (million ton-km)",IS.RRS.GOOD.MT.K6,3760.2204401392
+Chile,CHL,2016,"Railways, goods transported (million ton-km)",IS.RRS.GOOD.MT.K6,4076.755917
+Chile,CHL,2015,"Railways, goods transported (million ton-km)",IS.RRS.GOOD.MT.K6,4085.724617
+Chile,CHL,2014,"Railways, goods transported (million ton-km)",IS.RRS.GOOD.MT.K6,4103.932874
+Chile,CHL,2013,"Railways, goods transported (million ton-km)",IS.RRS.GOOD.MT.K6,3981.463012
+Chile,CHL,2012,"Railways, goods transported (million ton-km)",IS.RRS.GOOD.MT.K6,4089.738747
+Chile,CHL,2011,"Railways, goods transported (million ton-km)",IS.RRS.GOOD.MT.K6,4118.699224
+Chile,CHL,2010,"Railways, goods transported (million ton-km)",IS.RRS.GOOD.MT.K6,3833.633027
+Chile,CHL,2021,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,738
+Chile,CHL,2020,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,517
+Chile,CHL,2019,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,1063
+Chile,CHL,2018,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,973
+Chile,CHL,2017,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,846.13
+Chile,CHL,2016,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,582.860352
+Chile,CHL,2015,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,584.365975
+Chile,CHL,2014,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,662.561655
+Chile,CHL,2013,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,861.780415
+Chile,CHL,2012,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,933.999552
+Chile,CHL,2011,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,851.582112
+Chile,CHL,2010,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,696.35048
+Chile,CHL,2004,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,820
+Chile,CHL,2003,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,829
+Chile,CHL,2002,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,769
+Chile,CHL,2001,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,870
+Chile,CHL,2000,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,736
+Chile,CHL,1999,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,637.19
+Chile,CHL,1998,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,533.9
+Chile,CHL,1997,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,550
+Chile,CHL,1996,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,642
+Chile,CHL,1995,"Railways, passengers carried (million passenger-km)",IS.RRS.PASG.KM,689
+Chile,CHL,2021,Rail lines (total route-km),IS.RRS.TOTL.KM,2396
+Chile,CHL,2020,Rail lines (total route-km),IS.RRS.TOTL.KM,2396
+Chile,CHL,2019,Rail lines (total route-km),IS.RRS.TOTL.KM,2396
+Chile,CHL,2018,Rail lines (total route-km),IS.RRS.TOTL.KM,2396
+Chile,CHL,2017,Rail lines (total route-km),IS.RRS.TOTL.KM,2057
+Chile,CHL,2005,Rail lines (total route-km),IS.RRS.TOTL.KM,2120
+Chile,CHL,2004,Rail lines (total route-km),IS.RRS.TOTL.KM,2030
+Chile,CHL,2002,Rail lines (total route-km),IS.RRS.TOTL.KM,2035
+Chile,CHL,2001,Rail lines (total route-km),IS.RRS.TOTL.KM,2035
+Chile,CHL,2000,Rail lines (total route-km),IS.RRS.TOTL.KM,2035
+Chile,CHL,1999,Rail lines (total route-km),IS.RRS.TOTL.KM,2084
+Chile,CHL,1998,Rail lines (total route-km),IS.RRS.TOTL.KM,2208
+Chile,CHL,1996,Rail lines (total route-km),IS.RRS.TOTL.KM,2710
+Chile,CHL,1995,Rail lines (total route-km),IS.RRS.TOTL.KM,2742
+Chile,CHL,2021,Liner shipping connectivity index (maximum value in 2004 = 100),IS.SHP.GCNW.XQ,36.2862939823
+Chile,CHL,2020,Liner shipping connectivity index (maximum value in 2004 = 100),IS.SHP.GCNW.XQ,36.215161659
+Chile,CHL,2019,Liner shipping connectivity index (maximum value in 2004 = 100),IS.SHP.GCNW.XQ,36.7149125003
+Chile,CHL,2018,Liner shipping connectivity index (maximum value in 2004 = 100),IS.SHP.GCNW.XQ,36.1605769121
+Chile,CHL,2017,Liner shipping connectivity index (maximum value in 2004 = 100),IS.SHP.GCNW.XQ,35.8537436825
+Chile,CHL,2016,Liner shipping connectivity index (maximum value in 2004 = 100),IS.SHP.GCNW.XQ,34.7454587829
+Chile,CHL,2015,Liner shipping connectivity index (maximum value in 2004 = 100),IS.SHP.GCNW.XQ,29.8715693776
+Chile,CHL,2014,Liner shipping connectivity index (maximum value in 2004 = 100),IS.SHP.GCNW.XQ,29.0461566607
+Chile,CHL,2013,Liner shipping connectivity index (maximum value in 2004 = 100),IS.SHP.GCNW.XQ,28.5912329011
+Chile,CHL,2012,Liner shipping connectivity index (maximum value in 2004 = 100),IS.SHP.GCNW.XQ,28.4174462947
+Chile,CHL,2011,Liner shipping connectivity index (maximum value in 2004 = 100),IS.SHP.GCNW.XQ,28.9990470286
+Chile,CHL,2010,Liner shipping connectivity index (maximum value in 2004 = 100),IS.SHP.GCNW.XQ,22.4122789396
+Chile,CHL,2009,Liner shipping connectivity index (maximum value in 2004 = 100),IS.SHP.GCNW.XQ,22.0647736757
+Chile,CHL,2008,Liner shipping connectivity index (maximum value in 2004 = 100),IS.SHP.GCNW.XQ,19.1098528283
+Chile,CHL,2007,Liner shipping connectivity index (maximum value in 2004 = 100),IS.SHP.GCNW.XQ,17.0637534565
+Chile,CHL,2006,Liner shipping connectivity index (maximum value in 2004 = 100),IS.SHP.GCNW.XQ,17.5269521879
+Chile,CHL,2022,Container port traffic (TEU: 20 foot equivalent units),IS.SHP.GOOD.TU,4158260
+Chile,CHL,2021,Container port traffic (TEU: 20 foot equivalent units),IS.SHP.GOOD.TU,4335451
+Chile,CHL,2020,Container port traffic (TEU: 20 foot equivalent units),IS.SHP.GOOD.TU,4217172
+Chile,CHL,2019,Container port traffic (TEU: 20 foot equivalent units),IS.SHP.GOOD.TU,4641633
+Chile,CHL,2018,Container port traffic (TEU: 20 foot equivalent units),IS.SHP.GOOD.TU,4661486
+Chile,CHL,2017,Container port traffic (TEU: 20 foot equivalent units),IS.SHP.GOOD.TU,4407502
+Chile,CHL,2016,Container port traffic (TEU: 20 foot equivalent units),IS.SHP.GOOD.TU,4170283
+Chile,CHL,2015,Container port traffic (TEU: 20 foot equivalent units),IS.SHP.GOOD.TU,3956842
+Chile,CHL,2014,Container port traffic (TEU: 20 foot equivalent units),IS.SHP.GOOD.TU,3957585
+Chile,CHL,2013,Container port traffic (TEU: 20 foot equivalent units),IS.SHP.GOOD.TU,3853407
+Chile,CHL,2012,Container port traffic (TEU: 20 foot equivalent units),IS.SHP.GOOD.TU,3514318
+Chile,CHL,2011,Container port traffic (TEU: 20 foot equivalent units),IS.SHP.GOOD.TU,3432192
+Chile,CHL,2010,Container port traffic (TEU: 20 foot equivalent units),IS.SHP.GOOD.TU,3157758
+Chile,CHL,2009,Container port traffic (TEU: 20 foot equivalent units),IS.SHP.GOOD.TU,2795990.2016
+Chile,CHL,2008,Container port traffic (TEU: 20 foot equivalent units),IS.SHP.GOOD.TU,3164137
+Chile,CHL,2007,Container port traffic (TEU: 20 foot equivalent units),IS.SHP.GOOD.TU,2725218
+Chile,CHL,2006,Container port traffic (TEU: 20 foot equivalent units),IS.SHP.GOOD.TU,2126811
+Chile,CHL,2005,Container port traffic (TEU: 20 foot equivalent units),IS.SHP.GOOD.TU,1804236
+Chile,CHL,2004,Container port traffic (TEU: 20 foot equivalent units),IS.SHP.GOOD.TU,1658672
+Chile,CHL,2003,Container port traffic (TEU: 20 foot equivalent units),IS.SHP.GOOD.TU,1250126
+Chile,CHL,2002,Container port traffic (TEU: 20 foot equivalent units),IS.SHP.GOOD.TU,1167880
+Chile,CHL,2001,Container port traffic (TEU: 20 foot equivalent units),IS.SHP.GOOD.TU,1080545
+Chile,CHL,2000,Container port traffic (TEU: 20 foot equivalent units),IS.SHP.GOOD.TU,1253131
+Chile,CHL,2023,Mobile cellular subscriptions,IT.CEL.SETS,26710700
+Chile,CHL,2022,Mobile cellular subscriptions,IT.CEL.SETS,26418900
+Chile,CHL,2021,Mobile cellular subscriptions,IT.CEL.SETS,26571800
+Chile,CHL,2020,Mobile cellular subscriptions,IT.CEL.SETS,25068200
+Chile,CHL,2019,Mobile cellular subscriptions,IT.CEL.SETS,25051700
+Chile,CHL,2018,Mobile cellular subscriptions,IT.CEL.SETS,25179000
+Chile,CHL,2017,Mobile cellular subscriptions,IT.CEL.SETS,23013100
+Chile,CHL,2016,Mobile cellular subscriptions,IT.CEL.SETS,23302600
+Chile,CHL,2015,Mobile cellular subscriptions,IT.CEL.SETS,23206400
+Chile,CHL,2014,Mobile cellular subscriptions,IT.CEL.SETS,23680700
+Chile,CHL,2013,Mobile cellular subscriptions,IT.CEL.SETS,23661300
+Chile,CHL,2012,Mobile cellular subscriptions,IT.CEL.SETS,23941000
+Chile,CHL,2011,Mobile cellular subscriptions,IT.CEL.SETS,22315200
+Chile,CHL,2010,Mobile cellular subscriptions,IT.CEL.SETS,19852200
+Chile,CHL,2009,Mobile cellular subscriptions,IT.CEL.SETS,16450200
+Chile,CHL,2008,Mobile cellular subscriptions,IT.CEL.SETS,14796600
+Chile,CHL,2007,Mobile cellular subscriptions,IT.CEL.SETS,13955200
+Chile,CHL,2006,Mobile cellular subscriptions,IT.CEL.SETS,12450800
+Chile,CHL,2005,Mobile cellular subscriptions,IT.CEL.SETS,10569600
+Chile,CHL,2004,Mobile cellular subscriptions,IT.CEL.SETS,9261390
+Chile,CHL,2003,Mobile cellular subscriptions,IT.CEL.SETS,7268280
+Chile,CHL,2002,Mobile cellular subscriptions,IT.CEL.SETS,6244310
+Chile,CHL,2001,Mobile cellular subscriptions,IT.CEL.SETS,5100780
+Chile,CHL,2000,Mobile cellular subscriptions,IT.CEL.SETS,3401530
+Chile,CHL,1999,Mobile cellular subscriptions,IT.CEL.SETS,2260687
+Chile,CHL,1998,Mobile cellular subscriptions,IT.CEL.SETS,964248
+Chile,CHL,1997,Mobile cellular subscriptions,IT.CEL.SETS,409740
+Chile,CHL,1996,Mobile cellular subscriptions,IT.CEL.SETS,319474
+Chile,CHL,1995,Mobile cellular subscriptions,IT.CEL.SETS,197314
+Chile,CHL,1994,Mobile cellular subscriptions,IT.CEL.SETS,115691
+Chile,CHL,1993,Mobile cellular subscriptions,IT.CEL.SETS,85186
+Chile,CHL,1992,Mobile cellular subscriptions,IT.CEL.SETS,64438
+Chile,CHL,1991,Mobile cellular subscriptions,IT.CEL.SETS,36136
+Chile,CHL,1990,Mobile cellular subscriptions,IT.CEL.SETS,13921
+Chile,CHL,1989,Mobile cellular subscriptions,IT.CEL.SETS,4886
+Chile,CHL,1988,Mobile cellular subscriptions,IT.CEL.SETS,0
+Chile,CHL,1987,Mobile cellular subscriptions,IT.CEL.SETS,0
+Chile,CHL,1986,Mobile cellular subscriptions,IT.CEL.SETS,0
+Chile,CHL,1985,Mobile cellular subscriptions,IT.CEL.SETS,0
+Chile,CHL,1984,Mobile cellular subscriptions,IT.CEL.SETS,0
+Chile,CHL,1983,Mobile cellular subscriptions,IT.CEL.SETS,0
+Chile,CHL,1982,Mobile cellular subscriptions,IT.CEL.SETS,0
+Chile,CHL,1981,Mobile cellular subscriptions,IT.CEL.SETS,0
+Chile,CHL,1980,Mobile cellular subscriptions,IT.CEL.SETS,0
+Chile,CHL,1979,Mobile cellular subscriptions,IT.CEL.SETS,0
+Chile,CHL,1978,Mobile cellular subscriptions,IT.CEL.SETS,0
+Chile,CHL,1977,Mobile cellular subscriptions,IT.CEL.SETS,0
+Chile,CHL,1976,Mobile cellular subscriptions,IT.CEL.SETS,0
+Chile,CHL,1975,Mobile cellular subscriptions,IT.CEL.SETS,0
+Chile,CHL,1970,Mobile cellular subscriptions,IT.CEL.SETS,0
+Chile,CHL,1965,Mobile cellular subscriptions,IT.CEL.SETS,0
+Chile,CHL,1960,Mobile cellular subscriptions,IT.CEL.SETS,0
+Chile,CHL,2023,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,135.871
+Chile,CHL,2022,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,135.114
+Chile,CHL,2021,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,136.572
+Chile,CHL,2020,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,129.414
+Chile,CHL,2019,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,130.493
+Chile,CHL,2018,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,133.27
+Chile,CHL,2017,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,124.001
+Chile,CHL,2016,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,127.565
+Chile,CHL,2015,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,128.584
+Chile,CHL,2014,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,132.56
+Chile,CHL,2013,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,133.778
+Chile,CHL,2012,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,136.656
+Chile,CHL,2011,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,128.605
+Chile,CHL,2010,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,115.545
+Chile,CHL,2009,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,96.7107
+Chile,CHL,2008,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,87.871
+Chile,CHL,2007,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,83.7065
+Chile,CHL,2006,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,75.4174
+Chile,CHL,2005,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,64.6505
+Chile,CHL,2004,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,57.2138
+Chile,CHL,2003,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,45.3566
+Chile,CHL,2002,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,39.3766
+Chile,CHL,2001,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,32.5225
+Chile,CHL,2000,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,21.9402
+Chile,CHL,1999,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,14.89605908
+Chile,CHL,1998,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,6.429716534
+Chile,CHL,1997,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,2.766776987
+Chile,CHL,1996,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,2.185860172
+Chile,CHL,1995,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,1.368639745
+Chile,CHL,1994,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0.814113391
+Chile,CHL,1993,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0.608541585
+Chile,CHL,1992,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0.467541804
+Chile,CHL,1991,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0.266451437
+Chile,CHL,1990,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0.104332892
+Chile,CHL,1989,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0.037216408
+Chile,CHL,1988,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Chile,CHL,1987,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Chile,CHL,1986,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Chile,CHL,1985,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Chile,CHL,1984,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Chile,CHL,1983,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Chile,CHL,1982,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Chile,CHL,1981,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Chile,CHL,1980,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Chile,CHL,1979,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Chile,CHL,1978,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Chile,CHL,1977,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Chile,CHL,1976,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Chile,CHL,1975,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Chile,CHL,1970,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Chile,CHL,1965,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Chile,CHL,1960,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,0
+Chile,CHL,2023,Fixed telephone subscriptions,IT.MLT.MAIN,1977660
+Chile,CHL,2022,Fixed telephone subscriptions,IT.MLT.MAIN,2216790
+Chile,CHL,2021,Fixed telephone subscriptions,IT.MLT.MAIN,2510970
+Chile,CHL,2020,Fixed telephone subscriptions,IT.MLT.MAIN,2567940
+Chile,CHL,2019,Fixed telephone subscriptions,IT.MLT.MAIN,2750270
+Chile,CHL,2018,Fixed telephone subscriptions,IT.MLT.MAIN,2997190
+Chile,CHL,2017,Fixed telephone subscriptions,IT.MLT.MAIN,3200250
+Chile,CHL,2016,Fixed telephone subscriptions,IT.MLT.MAIN,3375040
+Chile,CHL,2015,Fixed telephone subscriptions,IT.MLT.MAIN,3445880
+Chile,CHL,2014,Fixed telephone subscriptions,IT.MLT.MAIN,3427750
+Chile,CHL,2013,Fixed telephone subscriptions,IT.MLT.MAIN,3347230
+Chile,CHL,2012,Fixed telephone subscriptions,IT.MLT.MAIN,3292500
+Chile,CHL,2011,Fixed telephone subscriptions,IT.MLT.MAIN,3370100
+Chile,CHL,2010,Fixed telephone subscriptions,IT.MLT.MAIN,3459370
+Chile,CHL,2009,Fixed telephone subscriptions,IT.MLT.MAIN,3555310
+Chile,CHL,2008,Fixed telephone subscriptions,IT.MLT.MAIN,3524790
+Chile,CHL,2007,Fixed telephone subscriptions,IT.MLT.MAIN,3459610
+Chile,CHL,2006,Fixed telephone subscriptions,IT.MLT.MAIN,3383600
+Chile,CHL,2005,Fixed telephone subscriptions,IT.MLT.MAIN,3460650
+Chile,CHL,2004,Fixed telephone subscriptions,IT.MLT.MAIN,3345100
+Chile,CHL,2003,Fixed telephone subscriptions,IT.MLT.MAIN,3252060
+Chile,CHL,2002,Fixed telephone subscriptions,IT.MLT.MAIN,3467010
+Chile,CHL,2001,Fixed telephone subscriptions,IT.MLT.MAIN,3478490
+Chile,CHL,2000,Fixed telephone subscriptions,IT.MLT.MAIN,3302500
+Chile,CHL,1999,Fixed telephone subscriptions,IT.MLT.MAIN,3108799
+Chile,CHL,1998,Fixed telephone subscriptions,IT.MLT.MAIN,3046698
+Chile,CHL,1997,Fixed telephone subscriptions,IT.MLT.MAIN,2693286
+Chile,CHL,1996,Fixed telephone subscriptions,IT.MLT.MAIN,2151000
+Chile,CHL,1995,Fixed telephone subscriptions,IT.MLT.MAIN,1818000
+Chile,CHL,1994,Fixed telephone subscriptions,IT.MLT.MAIN,1587000
+Chile,CHL,1993,Fixed telephone subscriptions,IT.MLT.MAIN,1520291
+Chile,CHL,1992,Fixed telephone subscriptions,IT.MLT.MAIN,1283048
+Chile,CHL,1991,Fixed telephone subscriptions,IT.MLT.MAIN,1056027
+Chile,CHL,1990,Fixed telephone subscriptions,IT.MLT.MAIN,864155
+Chile,CHL,1989,Fixed telephone subscriptions,IT.MLT.MAIN,645863
+Chile,CHL,1988,Fixed telephone subscriptions,IT.MLT.MAIN,625466
+Chile,CHL,1987,Fixed telephone subscriptions,IT.MLT.MAIN,580795
+Chile,CHL,1986,Fixed telephone subscriptions,IT.MLT.MAIN,557987
+Chile,CHL,1985,Fixed telephone subscriptions,IT.MLT.MAIN,537089
+Chile,CHL,1984,Fixed telephone subscriptions,IT.MLT.MAIN,481002
+Chile,CHL,1983,Fixed telephone subscriptions,IT.MLT.MAIN,436860
+Chile,CHL,1982,Fixed telephone subscriptions,IT.MLT.MAIN,404196
+Chile,CHL,1981,Fixed telephone subscriptions,IT.MLT.MAIN,386706
+Chile,CHL,1980,Fixed telephone subscriptions,IT.MLT.MAIN,363000
+Chile,CHL,1979,Fixed telephone subscriptions,IT.MLT.MAIN,351000
+Chile,CHL,1978,Fixed telephone subscriptions,IT.MLT.MAIN,345000
+Chile,CHL,1977,Fixed telephone subscriptions,IT.MLT.MAIN,325000
+Chile,CHL,1976,Fixed telephone subscriptions,IT.MLT.MAIN,308000
+Chile,CHL,1975,Fixed telephone subscriptions,IT.MLT.MAIN,297000
+Chile,CHL,1974,Fixed telephone subscriptions,IT.MLT.MAIN,237000
+Chile,CHL,1973,Fixed telephone subscriptions,IT.MLT.MAIN,237000
+Chile,CHL,1972,Fixed telephone subscriptions,IT.MLT.MAIN,237000
+Chile,CHL,1971,Fixed telephone subscriptions,IT.MLT.MAIN,237000
+Chile,CHL,1970,Fixed telephone subscriptions,IT.MLT.MAIN,237000
+Chile,CHL,1969,Fixed telephone subscriptions,IT.MLT.MAIN,163000
+Chile,CHL,1968,Fixed telephone subscriptions,IT.MLT.MAIN,163000
+Chile,CHL,1967,Fixed telephone subscriptions,IT.MLT.MAIN,163000
+Chile,CHL,1966,Fixed telephone subscriptions,IT.MLT.MAIN,163000
+Chile,CHL,1965,Fixed telephone subscriptions,IT.MLT.MAIN,163000
+Chile,CHL,1964,Fixed telephone subscriptions,IT.MLT.MAIN,131803
+Chile,CHL,1963,Fixed telephone subscriptions,IT.MLT.MAIN,131803
+Chile,CHL,1962,Fixed telephone subscriptions,IT.MLT.MAIN,131803
+Chile,CHL,1961,Fixed telephone subscriptions,IT.MLT.MAIN,131803
+Chile,CHL,1960,Fixed telephone subscriptions,IT.MLT.MAIN,131803
+Chile,CHL,2023,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,10.1
+Chile,CHL,2022,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,11.3
+Chile,CHL,2021,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,12.9
+Chile,CHL,2020,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,13.3
+Chile,CHL,2019,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,14.3
+Chile,CHL,2018,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,15.9
+Chile,CHL,2017,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,17.2
+Chile,CHL,2016,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,18.5
+Chile,CHL,2015,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,19.1
+Chile,CHL,2014,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,19.2
+Chile,CHL,2013,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,18.9
+Chile,CHL,2012,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,18.8
+Chile,CHL,2011,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,19.4
+Chile,CHL,2010,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,20.1
+Chile,CHL,2009,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,20.9
+Chile,CHL,2008,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,20.9
+Chile,CHL,2007,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,20.8
+Chile,CHL,2006,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,20.5
+Chile,CHL,2005,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,21.2
+Chile,CHL,2004,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,20.7
+Chile,CHL,2003,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,20.3
+Chile,CHL,2002,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,21.9
+Chile,CHL,2001,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,22.2
+Chile,CHL,2000,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,21.3
+Chile,CHL,1999,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,20.3
+Chile,CHL,1998,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,20.1
+Chile,CHL,1997,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,18
+Chile,CHL,1996,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,14.6
+Chile,CHL,1995,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,12.5
+Chile,CHL,1994,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,11.1
+Chile,CHL,1993,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,10.8
+Chile,CHL,1992,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,9.24
+Chile,CHL,1991,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,7.73
+Chile,CHL,1990,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,6.43
+Chile,CHL,1989,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,4.919504856
+Chile,CHL,1988,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,4.841671821
+Chile,CHL,1987,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,4.568590169
+Chile,CHL,1986,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,4.458723168
+Chile,CHL,1985,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,4.357226557
+Chile,CHL,1984,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,3.959594849
+Chile,CHL,1983,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,3.647639342
+Chile,CHL,1982,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,3.423240732
+Chile,CHL,1981,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,3.322897917
+Chile,CHL,1980,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,3.164825139
+Chile,CHL,1979,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,3.105004896
+Chile,CHL,1978,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,3.097574124
+Chile,CHL,1977,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,2.962663152
+Chile,CHL,1976,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,2.850566985
+Chile,CHL,1975,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,2.791476691
+Chile,CHL,1974,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,2.42254
+Chile,CHL,1973,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,2.42254
+Chile,CHL,1972,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,2.42254
+Chile,CHL,1971,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,2.42254
+Chile,CHL,1970,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,2.413323501
+Chile,CHL,1969,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,1.8132
+Chile,CHL,1968,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,1.8132
+Chile,CHL,1967,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,1.8132
+Chile,CHL,1966,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,1.8132
+Chile,CHL,1965,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,1.812130737
+Chile,CHL,1964,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,1.6206
+Chile,CHL,1963,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,1.6206
+Chile,CHL,1962,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,1.6206
+Chile,CHL,1961,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,1.6206
+Chile,CHL,1960,Fixed telephone subscriptions (per 100 people),IT.MLT.MAIN.P2,1.618839522
+Chile,CHL,2023,Fixed broadband subscriptions,IT.NET.BBND,4520630
+Chile,CHL,2022,Fixed broadband subscriptions,IT.NET.BBND,4456170
+Chile,CHL,2021,Fixed broadband subscriptions,IT.NET.BBND,4283130
+Chile,CHL,2020,Fixed broadband subscriptions,IT.NET.BBND,3763830
+Chile,CHL,2019,Fixed broadband subscriptions,IT.NET.BBND,3429670
+Chile,CHL,2018,Fixed broadband subscriptions,IT.NET.BBND,3250890
+Chile,CHL,2017,Fixed broadband subscriptions,IT.NET.BBND,3062390
+Chile,CHL,2016,Fixed broadband subscriptions,IT.NET.BBND,2904580
+Chile,CHL,2015,Fixed broadband subscriptions,IT.NET.BBND,2719440
+Chile,CHL,2014,Fixed broadband subscriptions,IT.NET.BBND,2489720
+Chile,CHL,2013,Fixed broadband subscriptions,IT.NET.BBND,2295170
+Chile,CHL,2012,Fixed broadband subscriptions,IT.NET.BBND,2166330
+Chile,CHL,2011,Fixed broadband subscriptions,IT.NET.BBND,2011240
+Chile,CHL,2010,Fixed broadband subscriptions,IT.NET.BBND,1789360
+Chile,CHL,2009,Fixed broadband subscriptions,IT.NET.BBND,1654680
+Chile,CHL,2008,Fixed broadband subscriptions,IT.NET.BBND,1427180
+Chile,CHL,2007,Fixed broadband subscriptions,IT.NET.BBND,1302310
+Chile,CHL,2006,Fixed broadband subscriptions,IT.NET.BBND,1011650
+Chile,CHL,2005,Fixed broadband subscriptions,IT.NET.BBND,708564
+Chile,CHL,2004,Fixed broadband subscriptions,IT.NET.BBND,478883
+Chile,CHL,2003,Fixed broadband subscriptions,IT.NET.BBND,352234
+Chile,CHL,2002,Fixed broadband subscriptions,IT.NET.BBND,188454
+Chile,CHL,2001,Fixed broadband subscriptions,IT.NET.BBND,66723
+Chile,CHL,2000,Fixed broadband subscriptions,IT.NET.BBND,7680
+Chile,CHL,2023,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,22.9954
+Chile,CHL,2022,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,22.7902
+Chile,CHL,2021,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,22.014
+Chile,CHL,2020,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,19.4306
+Chile,CHL,2019,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,17.865
+Chile,CHL,2018,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,17.2067
+Chile,CHL,2017,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,16.501
+Chile,CHL,2016,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,15.9005
+Chile,CHL,2015,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,15.0681
+Chile,CHL,2014,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,13.9369
+Chile,CHL,2013,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,12.9766
+Chile,CHL,2012,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,12.3655
+Chile,CHL,2011,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,11.591
+Chile,CHL,2010,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,10.4145
+Chile,CHL,2009,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,9.72782
+Chile,CHL,2008,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,8.47544
+Chile,CHL,2007,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,7.81156
+Chile,CHL,2006,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,6.12777
+Chile,CHL,2005,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,4.33405
+Chile,CHL,2004,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,2.95838
+Chile,CHL,2003,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,2.19806
+Chile,CHL,2002,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,1.18839
+Chile,CHL,2001,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,0.425425
+Chile,CHL,2000,Fixed broadband subscriptions (per 100 people),IT.NET.BBND.P2,0.0495368
+Chile,CHL,2024,Secure Internet servers,IT.NET.SECR,235450
+Chile,CHL,2023,Secure Internet servers,IT.NET.SECR,241803
+Chile,CHL,2022,Secure Internet servers,IT.NET.SECR,226097
+Chile,CHL,2021,Secure Internet servers,IT.NET.SECR,247581
+Chile,CHL,2020,Secure Internet servers,IT.NET.SECR,246876
+Chile,CHL,2019,Secure Internet servers,IT.NET.SECR,208732
+Chile,CHL,2018,Secure Internet servers,IT.NET.SECR,151206
+Chile,CHL,2017,Secure Internet servers,IT.NET.SECR,134062
+Chile,CHL,2016,Secure Internet servers,IT.NET.SECR,22528
+Chile,CHL,2015,Secure Internet servers,IT.NET.SECR,4025
+Chile,CHL,2014,Secure Internet servers,IT.NET.SECR,2933
+Chile,CHL,2013,Secure Internet servers,IT.NET.SECR,2239
+Chile,CHL,2012,Secure Internet servers,IT.NET.SECR,1791
+Chile,CHL,2011,Secure Internet servers,IT.NET.SECR,1110
+Chile,CHL,2010,Secure Internet servers,IT.NET.SECR,790
+Chile,CHL,2024,Secure Internet servers (per 1 million people),IT.NET.SECR.P6,11912.6095617298
+Chile,CHL,2023,Secure Internet servers (per 1 million people),IT.NET.SECR.P6,12299.9658931976
+Chile,CHL,2022,Secure Internet servers (per 1 million people),IT.NET.SECR.P6,11563.2682310819
+Chile,CHL,2021,Secure Internet servers (per 1 million people),IT.NET.SECR.P6,12724.956304718
+Chile,CHL,2020,Secure Internet servers (per 1 million people),IT.NET.SECR.P6,12744.8656274573
+Chile,CHL,2019,Secure Internet servers (per 1 million people),IT.NET.SECR.P6,10872.7358797992
+Chile,CHL,2018,Secure Internet servers (per 1 million people),IT.NET.SECR.P6,8003.20072982907
+Chile,CHL,2017,Secure Internet servers (per 1 million people),IT.NET.SECR.P6,7223.60868130535
+Chile,CHL,2016,Secure Internet servers (per 1 million people),IT.NET.SECR.P6,1233.24724652973
+Chile,CHL,2015,Secure Internet servers (per 1 million people),IT.NET.SECR.P6,223.021034623669
+Chile,CHL,2014,Secure Internet servers (per 1 million people),IT.NET.SECR.P6,164.183160786142
+Chile,CHL,2013,Secure Internet servers (per 1 million people),IT.NET.SECR.P6,126.59010801489
+Chile,CHL,2012,Secure Internet servers (per 1 million people),IT.NET.SECR.P6,102.231168131229
+Chile,CHL,2011,Secure Internet servers (per 1 million people),IT.NET.SECR.P6,63.970249569267
+Chile,CHL,2010,Secure Internet servers (per 1 million people),IT.NET.SECR.P6,45.9797837949083
+Chile,CHL,2023,"Individuals using the Internet, female (% of female population)",IT.NET.USER.FE.ZS,93.2
+Chile,CHL,2017,"Individuals using the Internet, female (% of female population)",IT.NET.USER.FE.ZS,80.7228
+Chile,CHL,2016,"Individuals using the Internet, female (% of female population)",IT.NET.USER.FE.ZS,83.6583
+Chile,CHL,2015,"Individuals using the Internet, female (% of female population)",IT.NET.USER.FE.ZS,74.5307
+Chile,CHL,2009,"Individuals using the Internet, female (% of female population)",IT.NET.USER.FE.ZS,36.808
+Chile,CHL,2006,"Individuals using the Internet, female (% of female population)",IT.NET.USER.FE.ZS,32.5841
+Chile,CHL,2003,"Individuals using the Internet, female (% of female population)",IT.NET.USER.FE.ZS,23.7991
+Chile,CHL,2023,"Individuals using the Internet, male (% of male population)",IT.NET.USER.MA.ZS,95.1
+Chile,CHL,2017,"Individuals using the Internet, male (% of male population)",IT.NET.USER.MA.ZS,83.994
+Chile,CHL,2016,"Individuals using the Internet, male (% of male population)",IT.NET.USER.MA.ZS,83.4513
+Chile,CHL,2015,"Individuals using the Internet, male (% of male population)",IT.NET.USER.MA.ZS,78.7092
+Chile,CHL,2009,"Individuals using the Internet, male (% of male population)",IT.NET.USER.MA.ZS,40.8843
+Chile,CHL,2006,"Individuals using the Internet, male (% of male population)",IT.NET.USER.MA.ZS,36.5167
+Chile,CHL,2003,"Individuals using the Internet, male (% of male population)",IT.NET.USER.MA.ZS,27.2369
+Chile,CHL,2023,Individuals using the Internet (% of population),IT.NET.USER.ZS,94.5
+Chile,CHL,2022,Individuals using the Internet (% of population),IT.NET.USER.ZS,93.5
+Chile,CHL,2021,Individuals using the Internet (% of population),IT.NET.USER.ZS,90.2
+Chile,CHL,2020,Individuals using the Internet (% of population),IT.NET.USER.ZS,87.5
+Chile,CHL,2019,Individuals using the Internet (% of population),IT.NET.USER.ZS,85
+Chile,CHL,2018,Individuals using the Internet (% of population),IT.NET.USER.ZS,84.9
+Chile,CHL,2017,Individuals using the Internet (% of population),IT.NET.USER.ZS,82.3
+Chile,CHL,2016,Individuals using the Internet (% of population),IT.NET.USER.ZS,83.6
+Chile,CHL,2015,Individuals using the Internet (% of population),IT.NET.USER.ZS,76.6
+Chile,CHL,2014,Individuals using the Internet (% of population),IT.NET.USER.ZS,61.1
+Chile,CHL,2013,Individuals using the Internet (% of population),IT.NET.USER.ZS,58
+Chile,CHL,2012,Individuals using the Internet (% of population),IT.NET.USER.ZS,55.1
+Chile,CHL,2011,Individuals using the Internet (% of population),IT.NET.USER.ZS,52.2
+Chile,CHL,2010,Individuals using the Internet (% of population),IT.NET.USER.ZS,45
+Chile,CHL,2009,Individuals using the Internet (% of population),IT.NET.USER.ZS,41.6
+Chile,CHL,2008,Individuals using the Internet (% of population),IT.NET.USER.ZS,37.3
+Chile,CHL,2007,Individuals using the Internet (% of population),IT.NET.USER.ZS,35.9
+Chile,CHL,2006,Individuals using the Internet (% of population),IT.NET.USER.ZS,34.5
+Chile,CHL,2005,Individuals using the Internet (% of population),IT.NET.USER.ZS,31.2
+Chile,CHL,2004,Individuals using the Internet (% of population),IT.NET.USER.ZS,28.2
+Chile,CHL,2003,Individuals using the Internet (% of population),IT.NET.USER.ZS,25.5
+Chile,CHL,2002,Individuals using the Internet (% of population),IT.NET.USER.ZS,22.1
+Chile,CHL,2001,Individuals using the Internet (% of population),IT.NET.USER.ZS,19.1
+Chile,CHL,2000,Individuals using the Internet (% of population),IT.NET.USER.ZS,16.6
+Chile,CHL,1999,Individuals using the Internet (% of population),IT.NET.USER.ZS,4.1
+Chile,CHL,1998,Individuals using the Internet (% of population),IT.NET.USER.ZS,1.66
+Chile,CHL,1997,Individuals using the Internet (% of population),IT.NET.USER.ZS,1.06
+Chile,CHL,1996,Individuals using the Internet (% of population),IT.NET.USER.ZS,0.683
+Chile,CHL,1995,Individuals using the Internet (% of population),IT.NET.USER.ZS,0.347
+Chile,CHL,1994,Individuals using the Internet (% of population),IT.NET.USER.ZS,0.141
+Chile,CHL,1993,Individuals using the Internet (% of population),IT.NET.USER.ZS,0.0718
+Chile,CHL,1992,Individuals using the Internet (% of population),IT.NET.USER.ZS,0.0365
+Chile,CHL,1990,Individuals using the Internet (% of population),IT.NET.USER.ZS,0
+Chile,CHL,2022,ICT goods imports (% total goods imports),TM.VAL.ICTG.ZS.UN,5.5
+Chile,CHL,2021,ICT goods imports (% total goods imports),TM.VAL.ICTG.ZS.UN,8.98
+Chile,CHL,2020,ICT goods imports (% total goods imports),TM.VAL.ICTG.ZS.UN,8.92
+Chile,CHL,2019,ICT goods imports (% total goods imports),TM.VAL.ICTG.ZS.UN,7.59
+Chile,CHL,2018,ICT goods imports (% total goods imports),TM.VAL.ICTG.ZS.UN,8
+Chile,CHL,2017,ICT goods imports (% total goods imports),TM.VAL.ICTG.ZS.UN,8.42
+Chile,CHL,2016,ICT goods imports (% total goods imports),TM.VAL.ICTG.ZS.UN,8.8
+Chile,CHL,2015,ICT goods imports (% total goods imports),TM.VAL.ICTG.ZS.UN,8.34
+Chile,CHL,2014,ICT goods imports (% total goods imports),TM.VAL.ICTG.ZS.UN,6.73
+Chile,CHL,2013,ICT goods imports (% total goods imports),TM.VAL.ICTG.ZS.UN,7.48
+Chile,CHL,2012,ICT goods imports (% total goods imports),TM.VAL.ICTG.ZS.UN,7.1
+Chile,CHL,2011,ICT goods imports (% total goods imports),TM.VAL.ICTG.ZS.UN,7.02
+Chile,CHL,2010,ICT goods imports (% total goods imports),TM.VAL.ICTG.ZS.UN,7.8
+Chile,CHL,2009,ICT goods imports (% total goods imports),TM.VAL.ICTG.ZS.UN,7.22
+Chile,CHL,2008,ICT goods imports (% total goods imports),TM.VAL.ICTG.ZS.UN,6.05
+Chile,CHL,2007,ICT goods imports (% total goods imports),TM.VAL.ICTG.ZS.UN,7.35
+Chile,CHL,2006,ICT goods imports (% total goods imports),TM.VAL.ICTG.ZS.UN,8.39
+Chile,CHL,2005,ICT goods imports (% total goods imports),TM.VAL.ICTG.ZS.UN,7.77
+Chile,CHL,2004,ICT goods imports (% total goods imports),TM.VAL.ICTG.ZS.UN,8.22
+Chile,CHL,2003,ICT goods imports (% total goods imports),TM.VAL.ICTG.ZS.UN,7.69
+Chile,CHL,2002,ICT goods imports (% total goods imports),TM.VAL.ICTG.ZS.UN,8.57
+Chile,CHL,2001,ICT goods imports (% total goods imports),TM.VAL.ICTG.ZS.UN,9.1
+Chile,CHL,2000,ICT goods imports (% total goods imports),TM.VAL.ICTG.ZS.UN,10.19
+Chile,CHL,2022,ICT goods exports (% of total goods exports),TX.VAL.ICTG.ZS.UN,0.29
+Chile,CHL,2021,ICT goods exports (% of total goods exports),TX.VAL.ICTG.ZS.UN,0.27
+Chile,CHL,2020,ICT goods exports (% of total goods exports),TX.VAL.ICTG.ZS.UN,0.27
+Chile,CHL,2019,ICT goods exports (% of total goods exports),TX.VAL.ICTG.ZS.UN,0.35
+Chile,CHL,2018,ICT goods exports (% of total goods exports),TX.VAL.ICTG.ZS.UN,0.29
+Chile,CHL,2017,ICT goods exports (% of total goods exports),TX.VAL.ICTG.ZS.UN,0.37
+Chile,CHL,2016,ICT goods exports (% of total goods exports),TX.VAL.ICTG.ZS.UN,0.53
+Chile,CHL,2015,ICT goods exports (% of total goods exports),TX.VAL.ICTG.ZS.UN,0.4
+Chile,CHL,2014,ICT goods exports (% of total goods exports),TX.VAL.ICTG.ZS.UN,0.41
+Chile,CHL,2013,ICT goods exports (% of total goods exports),TX.VAL.ICTG.ZS.UN,0.35
+Chile,CHL,2012,ICT goods exports (% of total goods exports),TX.VAL.ICTG.ZS.UN,0.42
+Chile,CHL,2011,ICT goods exports (% of total goods exports),TX.VAL.ICTG.ZS.UN,0.38
+Chile,CHL,2010,ICT goods exports (% of total goods exports),TX.VAL.ICTG.ZS.UN,0.39
+Chile,CHL,2009,ICT goods exports (% of total goods exports),TX.VAL.ICTG.ZS.UN,0.58
+Chile,CHL,2008,ICT goods exports (% of total goods exports),TX.VAL.ICTG.ZS.UN,0.5
+Chile,CHL,2007,ICT goods exports (% of total goods exports),TX.VAL.ICTG.ZS.UN,0.46
+Chile,CHL,2006,ICT goods exports (% of total goods exports),TX.VAL.ICTG.ZS.UN,0.48
+Chile,CHL,2005,ICT goods exports (% of total goods exports),TX.VAL.ICTG.ZS.UN,0.53
+Chile,CHL,2004,ICT goods exports (% of total goods exports),TX.VAL.ICTG.ZS.UN,0.45
+Chile,CHL,2003,ICT goods exports (% of total goods exports),TX.VAL.ICTG.ZS.UN,0.73
+Chile,CHL,2002,ICT goods exports (% of total goods exports),TX.VAL.ICTG.ZS.UN,0.21
+Chile,CHL,2001,ICT goods exports (% of total goods exports),TX.VAL.ICTG.ZS.UN,0.18
+Chile,CHL,2000,ICT goods exports (% of total goods exports),TX.VAL.ICTG.ZS.UN,0.16
+Chile,CHL,2005,Personal computers (per 100 people),IT.CMP.PCMP.P2,14.21269018974
+Chile,CHL,2004,Personal computers (per 100 people),IT.CMP.PCMP.P2,13.3495964494722
+Chile,CHL,2003,Personal computers (per 100 people),IT.CMP.PCMP.P2,12.6185735813001
+Chile,CHL,2002,Personal computers (per 100 people),IT.CMP.PCMP.P2,11.4496759170205
+Chile,CHL,2001,Personal computers (per 100 people),IT.CMP.PCMP.P2,10.5696574908935
+Chile,CHL,2000,Personal computers (per 100 people),IT.CMP.PCMP.P2,9.25542516196831
+Chile,CHL,1999,Personal computers (per 100 people),IT.CMP.PCMP.P2,7.61073152715857
+Chile,CHL,1998,Personal computers (per 100 people),IT.CMP.PCMP.P2,6.24927684316445
+Chile,CHL,1997,Personal computers (per 100 people),IT.CMP.PCMP.P2,4.41627407139891
+Chile,CHL,1996,Personal computers (per 100 people),IT.CMP.PCMP.P2,3.83208213680739
+Chile,CHL,1995,Personal computers (per 100 people),IT.CMP.PCMP.P2,3.29604628817208
+Chile,CHL,1994,Personal computers (per 100 people),IT.CMP.PCMP.P2,2.60476594519121
+Chile,CHL,1993,Personal computers (per 100 people),IT.CMP.PCMP.P2,2.1226341861566
+Chile,CHL,1992,Personal computers (per 100 people),IT.CMP.PCMP.P2,1.66911822962096
+Chile,CHL,1991,Personal computers (per 100 people),IT.CMP.PCMP.P2,1.30416180261244
+Chile,CHL,1990,Personal computers (per 100 people),IT.CMP.PCMP.P2,0.926579986490012
+Chile,CHL,1989,Personal computers (per 100 people),IT.CMP.PCMP.P2,0.65090416714974
+Chile,CHL,1988,Personal computers (per 100 people),IT.CMP.PCMP.P2,0.467009368519272
